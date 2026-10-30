@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="municipalities_array">
-        <item>Beijing is the capital of the Peoples Republic of China. It is a historic city combining ancient landmarks and modern development. It serves as the nation’s political and cultural centre with a long history dating back hundreds of years.</item>
+        <item>Beijing is the capital of the Peoples Republic of China. It is a historic city combining ancient landmarks and modern development. It serves as the nation’s political and cultural center with a long history dating back hundreds of years.</item>
         <item>Shanghai is China’s largest metropolitan city located on the coast. It is a major international economic and trade hub mixing old shikumen buildings with towering modern skyscrapers along the Huangpu river.</item>
         <item>Chongqing is a large inland direct‑administered municipality in southwest China. Surrounded by mountains, it sits beside the Yangtze river and features unique mountain‑city landscape and fast‑growing industry.</item>
-        <item>Tianjin is a coastal municipality near Beijing. It blends traditional Chinese architecture and western‑style historical buildings, acting as an important northern port and industrial centre of China.</item>
+        <item>Tianjin is a coastal municipality near Beijing. It blends traditional Chinese architecture and western‑style historical buildings, acting as an important northern port and industrial center of China.</item>
     </string-array>
 </resources>

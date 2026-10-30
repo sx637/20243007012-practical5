@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="municipality_beijing">#D82626</color>
+    <color name="municipality_beijing">#E84444</color>
     <color name="municipality_shanghai">#C81080</color>
     <color name="municipality_tianjin">#333333</color>
     <color name="municipality_chongqing">#FF7800</color>
